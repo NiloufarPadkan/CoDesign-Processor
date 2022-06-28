@@ -1,0 +1,11 @@
+i<>.\..\..\..\..\Desktop\Control_Unit.vhd
+i<>.\src\IR_Reg.vhd
+i<>.\..\..\..\..\Desktop\Main_Reg.vhd
+i<>.\src\PC_Reg.vhd
+i<>.\src\ROM_Memory.vhd
+i<>.\src\ALU.vhd
+i<>.\src\MUX21.vhd
+i<>.\src\MUX42.vhd
+i<>.\src\Processor.vhd
+i<>.\src\Main_Reg.vhd
+i<>.\src\TestBench\processor_TB.vhd

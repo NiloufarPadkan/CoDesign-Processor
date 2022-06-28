@@ -1,0 +1,26 @@
+1296
+~E 1 "./src/Processor.vhd" 11 processor
+~A 1 "./src/Processor.vhd" 22 processor
+~E 1 "./src/Main_Reg.vhd" 11 main_reg
+~A 1 "./src/Main_Reg.vhd" 23 main_reg
+~E 1 "./src/Control_Unit.vhd" 10 control_unit
+~A 1 "./src/Control_Unit.vhd" 35 control_unit
+~E 1 "./src/ALU.vhd" 11 alu
+~A 1 "./src/ALU.vhd" 22 alu
+~E 1 "./src/IR_Reg.vhd" 10 ir_reg
+~A 1 "./src/IR_Reg.vhd" 21 ir_reg
+~E 1 "./src/MUX42.vhd" 10 mux42
+~A 1 "./src/MUX42.vhd" 23 mux42
+~E 1 "./src/MUX21.vhd" 14 mux21
+~A 1 "./src/MUX21.vhd" 25 mux21
+~E 1 "./src/PC_Reg.vhd" 11 pc_reg
+~A 1 "./src/PC_Reg.vhd" 24 pc_reg
+~E 1 "./src/TestBench/serial_detector_TB.vhd" 6 serial_detector_tb
+~A 1 "./src/TestBench/serial_detector_TB.vhd" 9 tb_architecture
+~E 1 "./src/ROM_Memory.vhd" 11 rom_memory
+~A 1 "./src/ROM_Memory.vhd" 20 rom_memory
+~E 1 "./src/TestBench/processor_TB.vhd" 6 processor_tb
+~A 1 "./src/TestBench/processor_TB.vhd" 9 tb_architecture
+~E 1 "./src/SerialDetector.vhd" 28 serial_detector
+~C 1 "./src/TestBench/processor_TB.vhd" 52 testbench_for_processor
+~C 1 "./src/TestBench/serial_detector_TB.vhd" 66 testbench_for_serial_detector

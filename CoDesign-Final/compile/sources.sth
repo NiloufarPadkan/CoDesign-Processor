@@ -1,0 +1,21 @@
+[Files List]
+C:\Aldec\Active-HDL 8.3\Vlib\Std/src/standard.vhd=S
+C:\Aldec\Active-HDL 8.3\Vlib\Std/src/textio.vhd=S
+C:\Aldec\Active-HDL 8.3\VLIB\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL 8.3\VLIB\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL 8.3\VLIB\ieee/src/numeric_std.vhdl=S
+C:\Aldec\Active-HDL 8.3\VLIB\ieee/src/numeric_std-body.vhdl=S
+C:\Aldec\Active-HDL 8.3\VLIB\ieee/src/arith_p.vhd=S
+C:\Aldec\Active-HDL 8.3\VLIB\ieee/src/arith_b.vhd=S
+C:\Aldec\Active-HDL 8.3\VLIB\ieee/src/unsigned_p.vhd=S
+C:\Aldec\Active-HDL 8.3\VLIB\ieee/src/unsigned_b.vhd=S
+D:\Desktop\CoDesign-Final/src/Control_Unit.vhd=S
+D:\Desktop\CoDesign-Final/src/ALU.vhd=S
+D:\Desktop\CoDesign-Final/src/MUX42.vhd=S
+D:\Desktop\CoDesign-Final/src/MUX21.vhd=S
+D:\Desktop\CoDesign-Final/src/ROM_Memory.vhd=S
+D:\Desktop\CoDesign-Final/src/IR_Reg.vhd=S
+D:\Desktop\CoDesign-Final/src/PC_Reg.vhd=S
+D:\Desktop\CoDesign-Final/src/Main_Reg.vhd=S
+D:\Desktop\CoDesign-Final/src/Processor.vhd=S
+D:\Desktop\CoDesign-Final/src/TestBench/processor_TB.vhd=S

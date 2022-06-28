@@ -1,0 +1,97 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=hw4
+
+[Library]
+HW4=.\HW4.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+IMPL_TOOL=
+SYNTH_TOOL=
+fileopeninsrc=1
+fileopenfolder=D:\Documents\Active-HDL\CoDesign\HW4\src
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+HW4=.
+Active_lib=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=processor_tb|testbench_for_processor|1 
+ShowHide=ShowTopLevel
+Selected=
+
+[Folders]
+Name3=Makefiles
+Directory3=d:\Documents\Active-HDL\CoDesign\HW4\
+Extension3=mak
+Name4=Memory
+Directory4=d:\Documents\Active-HDL\CoDesign\HW4\src
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=d:\Documents\Active-HDL\CoDesign\HW4\
+Extension5=dll
+Name6=PDF
+Directory6=d:\Documents\Active-HDL\CoDesign\HW4\
+Extension6=pdf
+Name7=HTML
+Directory7=d:\Documents\Active-HDL\CoDesign\HW4\
+Extension7=
+
+[Groups]
+TestBench=1
+
+[ORDER]
+Synchronize=1
+
+[Files]
+/IR_Reg.vhd=-1
+/Main_Reg.vhd=-1
+/PC_Reg.vhd=-1
+/ROM_Memory.vhd=-1
+/ALU.vhd=-1
+/MUX21.vhd=-1
+/MUX42.vhd=-1
+/Control_Unit.vhd=-1
+/Processor.vhd=-1
+TestBench/processor_TB.vhd=-1
+TestBench/processor_TB_runtest.do=-1
+
+[Files.Data]
+.\src\IR_Reg.vhd=VHDL Source Code
+.\src\Main_Reg.vhd=VHDL Source Code
+.\src\PC_Reg.vhd=VHDL Source Code
+.\src\ROM_Memory.vhd=VHDL Source Code
+.\src\ALU.vhd=VHDL Source Code
+.\src\MUX21.vhd=VHDL Source Code
+.\src\MUX42.vhd=VHDL Source Code
+.\src\Control_Unit.vhd=VHDL Source Code
+.\src\Processor.vhd=VHDL Source Code
+.\src\TestBench\processor_TB.vhd=VHDL Test Bench
+.\src\TestBench\processor_TB_runtest.do=Macro
+
