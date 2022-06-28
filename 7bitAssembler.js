@@ -113,7 +113,7 @@ rl.on("close", function (cmd) {
                 break;
 
             case "MUL":
-                opcode = "101";
+                opcode = "100";
                 RX = RsrcNumber(inst[1]);
                 RY = RdestNumber(inst[2]);
                 console.log(opcode + RX + RY);
